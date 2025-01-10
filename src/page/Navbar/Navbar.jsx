@@ -25,6 +25,9 @@ const Navbar = () => {
               <NavLink to="/Contact">CONTACT</NavLink>
             </li>
             <li className=" hover:text-red-500 cursor-pointer font-medium text-gray-500  hover:underline space-y-1">
+              <NavLink to="/Card">CARD</NavLink>
+            </li>
+            <li className=" hover:text-red-500 cursor-pointer font-medium text-gray-500  hover:underline space-y-1">
               <NavLink to="/Login"> LOGIN</NavLink>
             </li>
           </ul>
