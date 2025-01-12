@@ -13,6 +13,7 @@ const Navbar = () => {
           <ul className="hidden gap-6 md:flex">
             <li className=" hover:text-red-500 cursor-pointer font-medium text-gray-500  hover:underline space-y-1">
               <NavLink to="/"> HOME </NavLink>
+              
             </li>
             <li className=" hover:text-red-500 cursor-pointer font-medium text-gray-500  hover:underline space-y-1">
               ABOUT
@@ -34,6 +35,8 @@ const Navbar = () => {
           <div className="md:hidden ">
             <button className="text-3xl -mt-2 text-gray-500   ">&equiv;</button>
           </div>
+
+        
         </div>
       </nav>
     </>
