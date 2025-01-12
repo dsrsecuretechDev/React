@@ -11,7 +11,7 @@ const Card = () => {
               <span>&#9829;</span> 239
             </div>
             <div className=" text-gray-100 bg-orange-500 w-20 text-center py-1 rounded-md">
-              <span>30% Off</span>
+              <span>40% Off</span>
             </div>
           </div>
           {/*  main card section  */}
